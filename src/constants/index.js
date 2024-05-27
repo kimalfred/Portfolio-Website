@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     role: "Computer Science Student",
     company: "Taguig City University",
     description: `Upcoming 3rd Year Computer Science Students aspiring being a full stack developer`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    technologies: ["HTML", "CSS", "Javascript", "PHP", "Java", "Python", "Visual Basic", "MySQL", "Figma", "Git"],
   },
   /*{
     year: "2022 - 2023",
@@ -41,37 +41,37 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Process Scheduling Tutorial & Calculator Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional Process Scheduling Calculator with Tutorial.",
+    technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
   },
   {
-    title: "Task Management App",
+    title: "CMD Tutorial Website",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "Command Prompt Tutorial Website with functional like real CMD and Chatbot OpenAI API",
+    technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
   },
   {
-    title: "Portfolio Website",
+    title: "Online Reservation System",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Online Reservation Systema, Visually stunning and responsive user interface by utilizing Java Swing's capabilities.",
+    technologies: ["Java", "MySQL"],
   },
   {
-    title: "Blogging Platform",
+    title: "ATM Interface System",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A user-friendly and intuitive interface using Java Swing, much like the Online Reservation System.",
+    technologies: ["Java", "MySQL"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Central Signal Village Taguig City, Philippines",
+  phoneNo: "09277324896 ",
+  email: "kimalfredmolina1224@gmail.com",
 };
