@@ -1,21 +1,22 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/process.png";
+import project2 from "../assets/projects/cmd.png";
+import project3 from "../assets/projects/booking.png";
+import project4 from "../assets/projects/withdraw.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const HERO_CONTENT = `I am an aspiring full stack developer with a passion for building dynamic and scalable web applications. As a third-year Computer Science student, I'm continually learning and expanding my knowledge in front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies including Java, Python, PHP, and VB.NET. I also work with databases like MySQL and design user interfaces with Figma. I am dedicated to developing my skills to create innovative solutions that enhance user experiences and drive business growth.`;
+
+export const ABOUT_TEXT = `Hey there! I'm Kim Alfred, an aspiring full-stack web developer hungry for knowledge and growth. With three years in computer science, I've delved into HTML, CSS, JavaScript, Java, PHP, VB.NET, Python, MySQL, and Figma. Passionate about crafting user-friendly web applications, I'm dedicated to mastering my craft through ongoing learning. Let's collaborate and turn your ideas into reality!`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    year: "2022 - Present",
+    role: "Computer Science Student",
+    company: "Taguig City University",
+    description: `Upcoming 3rd Year Computer Science Students aspiring being a full stack developer`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
-  {
+  /*{
     year: "2022 - 2023",
     role: "Frontend Developer",
     company: "Adobe",
@@ -35,7 +36,7 @@ export const EXPERIENCES = [
     company: "Paypal",
     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-  },
+  },*/
 ];
 
 export const PROJECTS = [
