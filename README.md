@@ -19,3 +19,8 @@ npm install framer-motion //for animation in react
 ```
 Free Bakground for Website (Tailwind CSS, Vanilla CSS)
 https://www.framer.com/motion/introduction/
+
+## How to run React.js
+```
+npm run dev
+```
