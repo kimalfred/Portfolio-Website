@@ -8,7 +8,7 @@ npm install
 npm install -D tailwindcss postcss autoprefixer
 ```
 
-For animation in react
+For Animation in React.js
 ```
 npm install framer-motion //for animation in react
 ```
