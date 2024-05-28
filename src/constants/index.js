@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/process.png";
+import project1 from "../assets/projects/algo.png";
 import project2 from "../assets/projects/cmd.png";
 import project3 from "../assets/projects/booking.png";
 import project4 from "../assets/projects/withdraw.png";
@@ -58,7 +58,7 @@ export const PROJECTS = [
     title: "Online Reservation System",
     image: project3,
     description:
-      "Online Reservation Systema, Visually stunning and responsive user interface by utilizing Java Swing's capabilities.",
+      "Online Reservation System, Visually stunning and responsive user interface by utilizing Java Swing's capabilities.",
     technologies: ["Java", "MySQL"],
   },
   {
