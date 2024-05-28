@@ -15,7 +15,7 @@ npm install react-icons --save
 For Animation in React.js
 https://www.framer.com/motion/introduction/
 ```
-npm install framer-motion //for animation in react
+npm install framer-motion
 ```
 Free Bakground for Website (Tailwind CSS, Vanilla CSS)
 https://www.framer.com/motion/introduction/
