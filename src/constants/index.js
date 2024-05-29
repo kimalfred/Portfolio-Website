@@ -74,7 +74,7 @@ export const PROJECTS = [
     technologies: ["Java", "MySQL"],
   },
   {
-    title: "ATM Interface System",
+    title: "HorizontalX Operating System",
     image: project5,
     description:
       "HorizonX is a groundbreaking advancement in user interfaces and system functionalities, seamlessly blending the best features of both Windows and Mac OS.",
