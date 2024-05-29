@@ -2,6 +2,7 @@ import project1 from "../assets/projects/algo.png";
 import project2 from "../assets/projects/cmd.png";
 import project3 from "../assets/projects/booking.png";
 import project4 from "../assets/projects/withdraw.png";
+import project5 from "../assets/projects/Horizon.png";
 
 
 export const HERO_CONTENT = `I am an aspiring full stack developer with a passion for building dynamic and scalable web applications. As a third-year Computer Science student, I'm continually learning and expanding my knowledge in front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies including Java, Python, PHP, and VB.NET. I also work with databases like MySQL and design user interfaces with Figma. I am dedicated to developing my skills to create innovative solutions that enhance user experiences and drive business growth.`;
@@ -45,6 +46,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional Process Scheduling Calculator with Tutorial.",
+    link: "https://github.com/kimalfred/Process-Scheduling-Solver", 
     technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
   },
   {
@@ -52,6 +54,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Command Prompt Tutorial Website with functional like real CMD and Chatbot OpenAI API",
+    link: "https://github.com/kimalfred/CMD-Tutorial-Website",
     technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
   },
   {
@@ -59,6 +62,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "Online Reservation System, Visually stunning and responsive user interface by utilizing Java Swing's capabilities.",
+    link: "https://github.com/kimalfred/Reservation-System",
     technologies: ["Java", "MySQL"],
   },
   {
@@ -66,7 +70,16 @@ export const PROJECTS = [
     image: project4,
     description:
       "A user-friendly and intuitive interface using Java Swing, much like the Online Reservation System.",
+    link: "https://github.com/kimalfred/ATM-Interface-System",
     technologies: ["Java", "MySQL"],
+  },
+  {
+    title: "ATM Interface System",
+    image: project5,
+    description:
+      "HorizonX is a groundbreaking advancement in user interfaces and system functionalities, seamlessly blending the best features of both Windows and Mac OS.",
+    link: "https://www.figma.com/community/file/1377651731493359499",
+    technologies: ["Figma"],
   },
 ];
 
