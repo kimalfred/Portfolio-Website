@@ -18,7 +18,7 @@ https://www.framer.com/motion/introduction/
 npm install framer-motion
 ```
 Free Bakground for Website (Tailwind CSS, Vanilla CSS)
-https://www.framer.com/motion/introduction/
+https://bg.ibelick.com/
 
 ## How to run React.js
 ```
